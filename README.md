@@ -1,6 +1,6 @@
 # Neomorph FrameLayout
  I got this project from : https://github.com/4inodev/Neomorphic-FrameLayout-Android
- I added some attributes for useing it in better way.
+ I added some attributes for using it in better way.
  
 [![](https://jitpack.io/v/4inodev/Neomorphic-FrameLayout-Android.svg)](https://jitpack.io/#4inodev/Neomorphic-FrameLayout-Android)
 
@@ -14,7 +14,7 @@
 ```"neomorph_style"``` - style could be "stroke" or "fill" <br>
 
 ### Recommendation:
- I did n't use this view because it's not good for complicated UI, I reccommned you to use this library :
+ I didn't use this view any more, Because it's not good for complicated UI, I reccommned you to use this library :
  Neumorphism in Android -> https://github.com/fornewid/neumorphism {I use this for my project, it's not too much heavy in Rendaring the view.}
  Or
  Android Neumorphism Design -> https://www.uplabs.com/posts/android-neumorphism-library
