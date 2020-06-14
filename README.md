@@ -2,8 +2,8 @@
  I got this project from : https://github.com/4inodev/Neomorphic-FrameLayout-Android
  I added some attributes for using it in better way.
  
-[![](https://jitpack.io/v/4inodev/Neomorphic-FrameLayout-Android.svg)](https://jitpack.io/#4inodev/Neomorphic-FrameLayout-Android)
-
+<img src="https://raw.githubusercontent.com/4inodev/Neomorphic-FrameLayout-Android/master/screenshots/light_main.jpg" height="500"> <img src="https://raw.githubusercontent.com/4inodev/Neomorphic-FrameLayout-Android/master/screenshots/light_cp.jpg" height="500"><img src="https://raw.githubusercontent.com/4inodev/Neomorphic-FrameLayout-Android/master/screenshots/dark_main.jpg" height="500">
+ 
 ## Attributes:
 ```"neomorph_padding_top"``` -  set padding top to view, if "0dp" passed for this, The view wouldn't have top evalation<br>
 ```"neomorph_padding_bottom"``` -  set padding top to view, if "0dp" passed for this, The view wouldn't have bottom evalation <br>
