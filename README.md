@@ -14,7 +14,7 @@
 ```"neomorph_style"``` - style could be "stroke" or "fill" <br>
 
 ### Recommendation:
- I didn't use this view any more, Because it's not good for complicated UI, I reccommned you to use this library :
- Neumorphism in Android -> https://github.com/fornewid/neumorphism {I use this for my project, it's not too much heavy in Rendaring the view.}
- Or
+ I didn't use this view any more, Because it's not good for complicated UI, I reccommned you to use this library :<br>
+ Neumorphism in Android -> https://github.com/fornewid/neumorphism {I use this for my project, it's not too much heavy in Rendaring the view.}<br>
+ Or<br>
  Android Neumorphism Design -> https://www.uplabs.com/posts/android-neumorphism-library
